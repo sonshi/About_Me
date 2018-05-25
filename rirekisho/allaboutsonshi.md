@@ -6,3 +6,4 @@
 ## 私について
 - shonshi
 - 修行します
+- yahhopooo
