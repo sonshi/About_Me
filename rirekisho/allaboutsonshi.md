@@ -1,4 +1,4 @@
-# Contents
+# Resume
 ## Basic Infomation
 ![Imgur](https://i.imgur.com/cjKFatR.jpg)
 
