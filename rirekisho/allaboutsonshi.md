@@ -22,11 +22,15 @@
 * Swift3(There are hands-on experience)
 * Java(During study)
 * python(a little)
+* Rails(During study)
 
 ### Programming Environment
 
 * slack
 * github
+* bitbucket(a bit)
+* sourcetree(a bit)
+* GitKraken(a bit)
 
 ### Operating Systems
 * Linux(Ubuntu)
